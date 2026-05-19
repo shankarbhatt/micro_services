@@ -1,0 +1,9 @@
+com\stocktrading\settlement\client\TradeClient$TradeDto.class
+com\stocktrading\settlement\repository\SettlementRepository.class
+com\stocktrading\settlement\service\SettlementService.class
+com\stocktrading\settlement\entity\Settlement.class
+com\stocktrading\settlement\client\TradeClient.class
+com\stocktrading\settlement\entity\Settlement$SettlementStatus.class
+com\stocktrading\settlement\controller\SettlementController.class
+com\stocktrading\settlement\SettlementServiceApplication.class
+com\stocktrading\settlement\entity\Settlement$SettlementType.class

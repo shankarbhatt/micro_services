@@ -1,0 +1,7 @@
+D:\Micro_service\demat-service\src\main\java\com\stocktrading\demat\controller\DematController.java
+D:\Micro_service\demat-service\src\main\java\com\stocktrading\demat\DematServiceApplication.java
+D:\Micro_service\demat-service\src\main\java\com\stocktrading\demat\entity\DematAccount.java
+D:\Micro_service\demat-service\src\main\java\com\stocktrading\demat\entity\DematHolding.java
+D:\Micro_service\demat-service\src\main\java\com\stocktrading\demat\repository\DematAccountRepository.java
+D:\Micro_service\demat-service\src\main\java\com\stocktrading\demat\repository\DematHoldingRepository.java
+D:\Micro_service\demat-service\src\main\java\com\stocktrading\demat\service\DematService.java

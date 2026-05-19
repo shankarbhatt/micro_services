@@ -1,0 +1,8 @@
+com\stocktrading\demat\repository\DematHoldingRepository.class
+com\stocktrading\demat\service\DematService.class
+com\stocktrading\demat\repository\DematAccountRepository.class
+com\stocktrading\demat\entity\DematHolding.class
+com\stocktrading\demat\controller\DematController.class
+com\stocktrading\demat\entity\DematAccount$DematStatus.class
+com\stocktrading\demat\entity\DematAccount.class
+com\stocktrading\demat\DematServiceApplication.class
