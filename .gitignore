@@ -1,0 +1,39 @@
+
+# JAR files
+
+*.jar
+
+*.war
+
+*.class
+
+
+
+# Maven build output
+
+target/
+
+**/target/
+
+
+
+# IDE files
+
+.classpath
+
+.factorypath
+
+.project
+
+.settings/
+
+.idea/
+
+*.iml
+
+
+
+# Environment
+
+.env
+
